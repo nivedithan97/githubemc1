@@ -1,0 +1,1 @@
+Remember to cd to githubemc1 folder before checking for git status
