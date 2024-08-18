@@ -1,1 +1,1 @@
-Remember to cd to githubemc1 folder before checking for git status
+Remember to cd to githubemc1 folder before checking for git status after re-opening VS code and opening the local folder :)
