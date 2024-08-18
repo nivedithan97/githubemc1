@@ -1,0 +1,4 @@
+In this file I am learning how to create a new local file first.
+Given that it is untracked, I will proceed to use the command "Git Add" to save the changes I have made to this file
+Then I will use "Git Commit" to push this test2.txt file to staging area along with a message so "Git Commit -m"
+Lastly to ensure that this file is shown in the repository aka Github web I will use the command "Git push Origin main"
